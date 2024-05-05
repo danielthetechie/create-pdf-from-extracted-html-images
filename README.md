@@ -1,6 +1,6 @@
 # What it does
 
-From an HTML file, extract the image sources from all the <img> tags in the file and create a new PDF document with them.
+From an HTML file, extract the image sources from all the &lt;img&gt; tags in the file and create a new PDF document with them.
 
 # Usage
 
